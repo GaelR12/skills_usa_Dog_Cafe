@@ -57,13 +57,14 @@ nav ul{
     background-color: black;
     color: white;
     padding: 1rem;
-    font-size: 1.3em;
+    font-size: 1em;
   }
 
   #heading{
     border: 5px solid black;
-    font-size: 2rem;
-    padding: 1em 1em 1em 1em;
+    font-size: 1.5rem;
+    padding: 1em 3em 1em 3em;
+    text-align: center;
   }
 
   #big-img img{
